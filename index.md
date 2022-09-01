@@ -1,3 +1,8 @@
+# Shubham Welling's First CS193 Homework
+- CS193 is helpful since it teaches a lot about terminal commands and version control which other CS classes don't really cover
+- CS193 has some really cool, fun students and this makes learning the material exciting and enjoyable
+- CS193 has great teachers that explain the concepts very well and answer questions clearly if students have any
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -22,10 +27,7 @@ Syntax highlighted code block
 2. List
 
 
-# Shubham Welling's First CS193 Homework
-- CS193 is helpful since it teaches a lot about terminal commands and version control which other CS classes don't really cover
-- CS193 has some really cool, fun students and this makes learning the material exciting and enjoyable
-- CS193 has great teachers that explain the concepts very well and answer questions clearly if students have any
+
 
 
 **Bold** and _Italic_ and `Code` text

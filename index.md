@@ -16,10 +16,17 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
+- List 
 
 1. Numbered
 2. List
+
+
+# Shubham Welling's First CS193 Homework
+- CS193 is helpful since it teaches a lot about terminal commands and version control which other CS classes don't really cover
+- CS193 has some really cool, fun students and this makes learning the material exciting and enjoyable
+- CS193 has great teachers that explain the concepts very well and answer questions clearly if students have any
+
 
 **Bold** and _Italic_ and `Code` text
 
